@@ -1,4 +1,4 @@
-#UArizona textbook and homework access code costs for Fall 2021
+# UArizona textbook and homework access code costs for Fall 2021
 Visualizations of how much UArizona students spent on homework materials for the fall 2021 semester
 
 
